@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Tech Conference",
+    "description": "Join us for a day of technology insights and networking at the Tech Conference, organized by the Tech Community. This offline event will take place on August 1st from 9:00 AM to 5:00 PM at Tech Hub, located at 123 Main Street, City. The conference will feature renowned speakers including John Smith, CTO, and Jane Doe, Software Engineer. With a focus on technology and networking, this event offers a great opportunity to learn, connect, and stay up-to-date with the latest trends in the industry. The event is paid, and the ticket price is ₹7,500. Please adhere to the business casual dress code, and note that the event is open to individuals aged 18 and above.",
+    "from_date": "2023-07-13T07:00:00",
+    "to_date": "2023-07-13T17:00:00",
+    "venue": "Conference Hall, City Center",
+    "address": "123 Main Street, City",
+    "price": 1500,
+    "image": "https://www.applaudhr.com/hubfs/HRTechx.jpg",
+    "host": "Tech Gurus",
+    "type": "Offline",
+    "isPaid": true,
+    "tags": ["technology", "networking"],
+    "speakers": [
+      {
+        "name": "John Doe",
+        "profilePic": "https://i.postimg.cc/J7xjYLnc/pexels-photo-5384445.jpg",
+        "role": "Keynote Speaker"
+      },
+      {
+        "name": "Jane Smith",
+        "profilePic": "https://i.postimg.cc/tC5yVBBg/pexels-photo-1130626.jpg",
+        "role": "Panelist"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Business casual",
+      "ageRestrictions": "18 and above"
+    }
+  },
+  {
+    "title": "Design Workshop",
+    "description": "Enhance your design skills and learn the fundamentals of design at the Design Workshop hosted by the Design Association. Taking place on August 10th from 2:00 PM to 4:00 PM at the Creative Studio, located at 456 Elm Street, City, this offline workshop offers an opportunity to learn from industry experts. Emily Johnson, Design Director, and Alex Brown, Graphic Designer, will share their insights and knowledge. The workshop is suitable for individuals aged 16 and above and follows a casual dress code. The ticket price for this paid event is ₹4,500",
+    "from_date": "2023-07-10T14:00:00",
+    "to_date": "2023-07-10T16:00:00",
+    "venue": "Design Studio, Creative Street",
+    "address": "456 Elm Street, City",
+    "price": 2000,
+    "image": "https://www.designworkshop.com/img/home_join2.jpg",
+    "host": "Creative Minds",
+    "type": "Offline",
+    "isPaid": true,
+    "tags": ["design", "art"],
+    "speakers": [
+      {
+        "name": "Emily Brown",
+        "profilePic": "https://i.postimg.cc/d3wpsYPj/pexels-photo-1181686.jpg",
+        "role": "Workshop Leader"
+      },
+      {
+        "name": "Tom Wilson",
+        "profilePic": "https://i.postimg.cc/zBm4QhxM/pexels-photo-1516680.jpg",
+        "role": "Designer"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Casual",
+      "ageRestrictions": "16 and above"
+    }
+  },
+  {
+    "title": "Marketing Seminar",
+    "description": "Stay ahead of the game in the dynamic field of digital marketing by attending the Marketing Seminar organized by Marketing Experts. This offline seminar will be held on August 15th from 10:00 AM to 12:00 PM at Marketing City, situated at 789 Marketing Avenue, City. Join industry leaders Sarah Johnson, Marketing Manager, and Michael Brown, SEO Specialist, as they delve into the latest trends and strategies in digital marketing. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹3,000. The dress code for the event is smart casual.",
+    "from_date": "2023-08-15T10:00:00",
+    "to_date": "2023-08-15T12:00:00",
+    "venue": "Marketing City, Avenue Street",
+    "address": "789 Marketing Avenue, City",
+    "price": 3000,
+    "image": "https://assets.trainingindustry.com/content/uploads/2022/10/10.4.22-marketing-for-LnD-1920x1080.jpg",
+    "host": "Marketing Experts",
+    "type": "Offline",
+    "isPaid": true,
+    "tags": ["marketing", "strategy"],
+    "speakers": [
+      {
+        "name": "Sarah Johnson",
+        "profilePic": "https://i.postimg.cc/yxTqcNXG/pexels-photo-1239288.jpg",
+        "role": "Marketing Manager"
+      },
+      {
+        "name": "Michael Brown",
+        "profilePic": "https://i.postimg.cc/nL96T2GB/pexels-photo-2182970.jpg",
+        "role": "SEO Specialist"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Smart casual",
+      "ageRestrictions": "18 and above"
+    }
+  },
+  {
+    "title": "Creative Networking",
+    "description": "A gathering of creative minds to exchange ideas.",
+    "from_date": "2023-08-20T18:00:00",
+    "to_date": "2023-08-20T20:00:00",
+    "venue": "Zoom",
+    "address": "",
+    "price": 1000,
+    "image": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/5/2018/03/InterNations-Expat-Blog_Professional-Networking_Pic-2.jpg",
+    "host": "Innovation Collective",
+    "type": "Online",
+    "isPaid": false,
+    "tags": ["networking", "creativity"],
+    "speakers": [
+      {
+        "name": "Sophia Williams",
+        "profilePic": "https://sassmagazine.com/wp-content/uploads/2023/05/female-business-networking-groups.jpg",
+        "role": "Host"
+      },
+      {
+        "name": "David Miller",
+        "profilePic": "https://st.depositphotos.com/1011643/1496/i/450/depositphotos_14964437-stock-photo-peaceful-african-american-businessman-in.jpg",
+        "role": "Creative Expert"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Business casual",
+      "ageRestrictions": "18 and above"
+    }
+  },
+  {
+    "title": "Data Science Webinar",
+    "description": "Learn the essentials of data science and its applications at the Data Science Workshop organized by the Data Analytics Society. This offline workshop will be held on August 25th from 2:00 PM to 4:00 PM at Data City, located at 456 Data Avenue, City. Join Robert Wilson, Data Scientist, and Linda Thompson, Machine Learning Engineer, as they share their expertise. The workshop is open to individuals aged 18 and above, with a casual dress code. The ticket price for this event is ₹5,500.",
+    "from_date": "2023-06-25T14:00:00",
+    "to_date": "2023-06-25T16:00:00",
+    "venue": "Data City",
+    "address": "456 Data Avenue, City",
+    "price": 500,
+    "image": "https://img.freepik.com/free-vector/data-analysis-template-design_23-2150713872.jpg",
+    "host": "Data Experts",
+    "type": "Offline",
+    "isPaid": true,
+    "tags": ["data science", "analytics"],
+    "speakers": [
+      {
+        "name": "Anna Lee",
+        "profilePic": "https://www.thewomenachiever.com/wp-content/uploads/2022/01/Women-Data-Scientist-in-India.jpg",
+        "role": "Data Scientist"
+      },
+      {
+        "name": "Peter Liu",
+        "profilePic": "https://studyonline.rmit.edu.au/sites/default/files/AdobeStock_276501269%20-%201000%20x%20667.jpg",
+        "role": "AI Researcher"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Business casual",
+      "ageRestrictions": "18 and above"
+    }
+  },
+  {
+    "title": "Photography Meetup",
+    "description": "Discover the art of photography and enhance your skills at the Photography Workshop organized by the Photography Society. This online workshop, taking place on September 1st from 11:00 AM to 1:00 PM, offers insights from Christopher Davis, a Professional Photographer, and Olivia Walker, a Photography Instructor. The workshop is free and open to individuals aged 16 and above. The dress code is casual.",
+    "from_date": "2023-06-01T11:00:00",
+    "to_date": "2023-06-01T13:00:00",
+    "venue": "Google Meet",
+    "address": "",
+    "price": 0,
+    "image": "https://media.flytographer.com/uploads/2023/06/Photographer-Meetup-Paris-2023-58.jpg",
+    "host": "Photo Club",
+    "type": "Online",
+    "isPaid": false,
+    "tags": ["photography", "hobby"],
+    "speakers": [
+      {
+        "name": "Chris Walker",
+        "profilePic": "https://www.journeysphotographyclub.com/wp-content/uploads/2021/04/prithviraj-300x300.jpg",
+        "role": "Event Organizer"
+      },
+      {
+        "name": "Alice Green",
+        "profilePic": "https://images.squarespace-cdn.com/content/v1/5d32b4cc78a42600019361c7/1563606891727-CVTOMXZFGN3XH8JJVLSQ/IMG_2900.jpg",
+        "role": "Photographer"
+      }
+    ],
+    "additionalInformation": {
+      "dressCode": "Business casual",
+      "ageRestrictions": "18 and above"
+    }
+  }
+]
